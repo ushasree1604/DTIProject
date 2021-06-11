@@ -1,0 +1,2 @@
+rootProject.name = "Crops"
+include ':app'
